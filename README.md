@@ -61,7 +61,8 @@ fe resources
   - [Ghost-Markdown-Editor](https://github.com/timsayshey/Ghost-Markdown-Editor)
   - [markdown-plus](https://github.com/tylingsoft/markdown-plus)
 - 快捷键
-  - [hotkeys](https://github.com/jaywcjlove/hotkeys)
+  - [keymaster](https://github.com/madrobby/keymaster)
+  - [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS)
 - angular
   - [ADM-dateTimePicker](https://github.com/AmirkabirDataMiners/ADM-dateTimePicker)
   - [angular-select2](https://github.com/rubenv/angular-select2)
