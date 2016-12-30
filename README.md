@@ -102,4 +102,5 @@ fe resources
 - [hawx1993/github-FE-project](https://github.com/hawx1993/github-FE-project)
 - [windiest/Front-end-tutorial](https://github.com/windiest/Front-end-tutorial)
 - [jsfront/src](https://github.com/jsfront/src)
+- [awesomes.cn](https://www.awesomes.cn/)
 
