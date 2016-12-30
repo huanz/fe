@@ -92,13 +92,14 @@ fe resources
   - [react-native-Gank](https://github.com/wangdicoder/react-native-Gank)
 
 
-### 文章
+### 其它收藏集
 
-- rxjs
-- react
-- react native
-- angular
-- vue
-- gulp
-- webpack
+- [LearnShare/FE](https://github.com/LearnShare/FE)
+- [nieweidong/fetool](https://github.com/nieweidong/fetool)
+- [qiu-deqing/FE-interview](https://github.com/qiu-deqing/FE-interview)
+- [qiu-deqing/FE-learning](https://github.com/qiu-deqing/FE-learning)
+- [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds)
+- [hawx1993/github-FE-project](https://github.com/hawx1993/github-FE-project)
+- [windiest/Front-end-tutorial](https://github.com/windiest/Front-end-tutorial)
+- [jsfront/src](https://github.com/jsfront/src)
 
