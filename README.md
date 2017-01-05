@@ -71,11 +71,6 @@ fe resources
 - react
   - [拖拽：react-dnd](https://github.com/gaearon/react-dnd)
   - [react-select](https://github.com/JedWatson/react-select)
-- ajax&http
-  - [axios](https://github.com/mzabriskie/axios)
-  - [superagent](https://github.com/visionmedia/superagent)
-  - [Reqwest](https://github.com/ded/Reqwest)
-  - [oboe.js](http://oboejs.com)
 - 加载器
   - [loadjs](https://github.com/muicss/loadjs)
   - [headjs](https://github.com/headjs/headjs)
@@ -94,6 +89,11 @@ fe resources
   - [echo](https://github.com/toddmotto/echo)
   - [unveil](https://github.com/luis-almeida/unveil)
   - [lazyload](https://github.com/vvo/lazyload)
+- ajax&http
+  - [axios](https://github.com/mzabriskie/axios)
+  - [superagent](https://github.com/visionmedia/superagent)
+  - [Reqwest](https://github.com/ded/Reqwest)
+  - [oboe.js](http://oboejs.com)
 - node.js
   - http
     - [request](https://github.com/request/request)
