@@ -85,7 +85,7 @@ fe resources
   - [clipboard](https://github.com/zenorocha/clipboard.js)
   - [OCR-tesseract](https://github.com/naptha/tesseract.js)
   - [浏览器特性检测-feature](https://github.com/viljamis/feature.js)
-  - []()
+  - [时钟](https://github.com/objectivehtml/FlipClock)
 ## 案例
 
 - react native
