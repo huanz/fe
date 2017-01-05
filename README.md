@@ -63,6 +63,7 @@ fe resources
 - 快捷键
   - [keymaster](https://github.com/madrobby/keymaster)
   - [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS)
+  - [jwerty](https://github.com/keithamus/jwerty)
 - angular
   - [ADM-dateTimePicker](https://github.com/AmirkabirDataMiners/ADM-dateTimePicker)
   - [angular-select2](https://github.com/rubenv/angular-select2)
@@ -73,6 +74,26 @@ fe resources
 - ajax&http
   - [axios](https://github.com/mzabriskie/axios)
   - [superagent](https://github.com/visionmedia/superagent)
+  - [Reqwest](https://github.com/ded/Reqwest)
+  - [oboe.js](http://oboejs.com)
+- 加载器
+  - [loadjs](https://github.com/muicss/loadjs)
+  - [headjs](https://github.com/headjs/headjs)
+  - [yepnope.js](https://github.com/SlexAxton/yepnope.js)
+  - [LABjs](https://github.com/getify/LABjs)
+  - [lazyload](https://github.com/rgrove/lazyload)
+  - [script.js](https://github.com/ded/script.js)
+  - [basket.js](https://github.com/addyosmani/basket.js)
+  - [PreloadJS](https://github.com/CreateJS/PreloadJS)
+  - [load.js](https://github.com/node-js-libs/load.js)
+  - [JavaScript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image)
+- 图片懒加载
+  - [lazysizes](https://github.com/aFarkas/lazysizes)
+  - [blazy](https://github.com/dinbror/blazy)
+  - [layzr.js](https://github.com/callmecavs/layzr.js)
+  - [echo](https://github.com/toddmotto/echo)
+  - [unveil](https://github.com/luis-almeida/unveil)
+  - [lazyload](https://github.com/vvo/lazyload)
 - node.js
   - http
     - [request](https://github.com/request/request)
@@ -86,6 +107,8 @@ fe resources
   - [OCR-tesseract](https://github.com/naptha/tesseract.js)
   - [浏览器特性检测-feature](https://github.com/viljamis/feature.js)
   - [时钟](https://github.com/objectivehtml/FlipClock)
+  - [全屏加载动画](https://github.com/joaopereirawd/fakeLoader.js)
+  - [Snap：mobile side menu](https://github.com/jakiestfu/Snap.js)
 ## 案例
 
 - react native
@@ -103,4 +126,5 @@ fe resources
 - [windiest/Front-end-tutorial](https://github.com/windiest/Front-end-tutorial)
 - [jsfront/src](https://github.com/jsfront/src)
 - [awesomes.cn](https://www.awesomes.cn/)
+- [awesome](https://github.com/sindresorhus/awesome)
 
