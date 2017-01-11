@@ -8,3 +8,8 @@
 - [DDFE-blog](https://github.com/DDFE/DDFE-blog/issues)
 - [Coding-Guide](https://github.com/ecmadao/Coding-Guide)
 - [cssmagic](https://github.com/cssmagic/blog/issues)
+- [camsong](https://github.com/camsong/blog/issues)
+- [lifesinger](https://github.com/lifesinger/blog/issues)
+- [hax](https://github.com/hax/hax.github.com/issues)
+- [lcxfs1991](https://github.com/lcxfs1991/blog)
+- [phodal](https://github.com/phodal/articles/issues)
