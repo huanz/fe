@@ -21,6 +21,7 @@
 5. [Angular2项目日常开发中所遇问题及解决方案记录(三)](http://www.jianshu.com/p/02d5d6da0766)
 6. [Angular2入门](http://www.hubwiz.com/course/5599d367a164dd0d75929c76/)
 7. [使用 TypeScript 开发 Angular 2 应用](https://coyee.com/article/10921-developing-an-angular-2-application-with-typescript)
+8. [Angular 2 修仙之路 - 目录](https://segmentfault.com/a/1190000008754631)
 
 ## 书
 1. [ng-book2](ng-book.com/2) - 推荐，更新及时，有例子有视频。半价优惠码（限时有效）：NgConf2016
