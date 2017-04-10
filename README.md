@@ -25,9 +25,16 @@ fe resources
   - [anijs](http://anijs.github.io/)
   - [force-js](https://force-js.com/)
   - [Dynamics.js](http://dynamicsjs.com/)
-- input格式化
+  - [snabbt.js](https://github.com/daniel-lundin/snabbt.js)
+  - [Popmotion.js](https://github.com/Popmotion/popmotion)
+  - [Rainyday.j](https://github.com/maroslaw/rainyday.js)
+  - [iTyped](https://github.com/luisvinicius167/ityped)
+- 自动完成
+  - [Awesomplete](https://github.com/leaverou/awesomplete/)
+- 格式化
   - [Inputmask](https://github.com/RobinHerbots/Inputmask)
   - [cleave.js](http://nosir.github.io/cleave.js/)
+  - [Numeral.js](https://github.com/adamwdraper/Numeral-js)
 - 滚动
   - [scrollreveal](https://github.com/jlmakes/scrollreveal)
   - [in-view](https://github.com/camwiegert/in-view)
@@ -37,6 +44,7 @@ fe resources
   - [dropzone](https://github.com/enyo/dropzone)
   - [dragula](https://github.com/bevacqua/dragula)
   - [interact.js](https://github.com/taye/interact.js)
+  - [Draggabilly](https://github.com/desandro/draggabilly)
 - 上传
   - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
   - [fine-uploader](https://github.com/FineUploader/fine-uploader)

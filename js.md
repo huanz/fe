@@ -735,6 +735,15 @@ function get_get(){
     return querystr[1];
 }
 ```
+- 获取URL某个GET值
+```js
+function getQuery(name) {
+    if (name = (new RegExp('[?&]' + encodeURIComponent(name) + '=([^&]*)')).exec(window.location.search)) {
+        return decodeURIComponent(name[1]);
+    }
+}
+```
+
 - 数组去重
 ```js
 String.prototype.unique=function(){

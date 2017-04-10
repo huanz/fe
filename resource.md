@@ -62,6 +62,7 @@
     - [百度FEX技术周刊](http://fex.baidu.com/weekly/)
     - [平安科技移动开发二队技术周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
     - [360奇舞周刊](http://www.75team.com/weekly/)
+    - [weekly](https://github.com/zenany/weekly)
 
 ## API:
 
