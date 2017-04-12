@@ -117,6 +117,7 @@ fe resources
   - [时钟](https://github.com/objectivehtml/FlipClock)
   - [全屏加载动画](https://github.com/joaopereirawd/fakeLoader.js)
   - [Snap：mobile side menu](https://github.com/jakiestfu/Snap.js)
+  - [tooltip library](https://github.com/atomiks/tippyjs)
 ## 案例
 
 - react native
