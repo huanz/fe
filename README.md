@@ -29,6 +29,8 @@ fe resources
   - [Popmotion.js](https://github.com/Popmotion/popmotion)
   - [Rainyday.j](https://github.com/maroslaw/rainyday.js)
   - [iTyped](https://github.com/luisvinicius167/ityped)
+- scroll
+  - [scrollama](https://github.com/russellgoldenberg/scrollama)
 - 自动完成
   - [Awesomplete](https://github.com/leaverou/awesomplete/)
 - 格式化
@@ -45,6 +47,9 @@ fe resources
   - [dragula](https://github.com/bevacqua/dragula)
   - [interact.js](https://github.com/taye/interact.js)
   - [Draggabilly](https://github.com/desandro/draggabilly)
+  - [draggable](https://github.com/Shopify/draggable)
+  - [muuri](https://github.com/haltu/muuri)
+  - [grapesjs可视化编辑器](https://github.com/artf/grapesjs)
 - 上传
   - [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
   - [fine-uploader](https://github.com/FineUploader/fine-uploader)
@@ -56,6 +61,7 @@ fe resources
   - [Squire](http://neilj.github.io/Squire/)
   - [slate](http://slatejs.org/)
   - [wangEditor](http://wangEditor.github.io/)
+  - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor)
 - Markdown编辑器
   - [pen](http://sofish.github.io/pen/)
   - [editor](http://lab.lepture.com/editor/)
@@ -105,6 +111,9 @@ fe resources
 - node.js
   - http
     - [request](https://github.com/request/request)
+  - proxy
+    - [whistle](https://github.com/avwo/whistle)
+    - [anyproxy](https://github.com/alibaba/anyproxy)
 - gulp
 - webpack
 - sass
