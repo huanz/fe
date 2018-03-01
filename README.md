@@ -114,6 +114,16 @@ fe resources
   - proxy
     - [whistle](https://github.com/avwo/whistle)
     - [anyproxy](https://github.com/alibaba/anyproxy)
+  - 命令行解析
+    - [commander](https://github.com/tj/commander.js)
+    - [yargs](https://github.com/yargs/yargs)
+    - [minimist](https://github.com/substack/minimist)
+    - [optimist](https://github.com/substack/node-optimist)
+    - [meow](https://github.com/sindresorhus/meow)
+  - 命令行交互
+    - [inquirer](https://github.com/SBoudrias/Inquirer.js)
+    - [prompts](https://github.com/terkelg/prompts)
+    - [enquirer](https://github.com/enquirer/enquirer)
 - gulp
 - webpack
 - sass
